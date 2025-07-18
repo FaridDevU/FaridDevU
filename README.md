@@ -1,16 +1,32 @@
-## Hi there 👋
+# About Me
 
-<!--
-**FaridDevU/FaridDevU** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hi! My name is Farid. I'm passionate about software development and technology. I enjoy working on projects that solve real-world problems and constantly learning new skills.
 
-Here are some ideas to get you started:
+# Skills
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- React  
+- Vite  
+- Node.js  
+- Python  
+- Java  
+- TypeScript  
+- C / C++ / C#  
+- HTML / CSS  
+- Tailwind CSS  
+
+# Projects
+
+I’m currently working on my first project — a business management application designed for construction companies or any other businesses. It helps manage equipment, users, and projects efficiently.
+
+# Contact
+
+- Email: [fgarciau09@gmail.com](mailto:fgarciau09@gmail.com)  
+- GitHub: [FaridDevU](https://github.com/FaridDevU)
+
+## GitHub Stats
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=FaridDevU&theme=dark)
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=FaridDevU&show_icons=true&theme=dark&count_private=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=FaridDevU&layout=compact&theme=dark)
