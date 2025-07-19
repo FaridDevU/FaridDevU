@@ -29,4 +29,5 @@ I’m currently working on my first project — a business management applicatio
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=FaridDevU&show_icons=true&theme=dark&count_private=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=FaridDevU&layout=compact&theme=dark)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=FaridDevU&layout=compact&theme=dark&cache_seconds=1)
+
