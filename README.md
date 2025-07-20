@@ -12,7 +12,9 @@ Hi! My name is Farid. I'm passionate about software development and technology. 
 - TypeScript  
 - C / C++ / C#  
 - HTML / CSS  
-- Tailwind CSS  
+- Tailwind CSS
+- Vue
+- Next.js
 
 # Projects
 
