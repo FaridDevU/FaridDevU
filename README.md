@@ -16,7 +16,16 @@ Hi! My name is Farid. I'm passionate about software development and technology. 
 
 # Projects
 
-I’m currently working on my first project — a business management application designed for construction companies or any other businesses. It helps manage equipment, users, and projects efficiently.
+Visual Process Scheduling Simulator
+An educational interactive simulator that demonstrates how operating systems schedule processes using algorithms like FCFS. Built with a C++ backend and a React frontend. 
+
+ ClimaRescue - TerraClima 2087
+A futuristic Nuxt.js + TypeScript application that predicts air humidity based on coordinates and date. Allows switching between multiple weather providers using dependency injection for flexibility and scalability.
+
+AssetLogix
+A lightweight asset and tool manager for internal company resources. Designed to efficiently organize, control, and visualize equipment and assets using modern web technologies.
+
+
 
 # Contact
 
