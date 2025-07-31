@@ -4,7 +4,7 @@ Hi! My name is Farid. I'm passionate about software development and technology. 
 
 # Skills
 
--Docker
+- Docker
 - React  
 - Vite  
 - Node.js  
