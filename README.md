@@ -16,6 +16,7 @@ Hi! My name is Farid. I'm passionate about software development and technology. 
 - Tailwind CSS
 - Vue
 - Next.js
+- PostgreSQL 
 
 # Projects
 
