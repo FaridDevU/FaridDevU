@@ -53,7 +53,7 @@ Welcome to my GitHub profile. I specialize in modern web applications, focusing 
 ### Performance & Other Languages
 - Lazy Loading of components and assets
 - Performance optimization and load time improvement
-- **C++** | ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2b%2b&logoColor=white)
+- ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2b%2b&logoColor=white)
 
 ---
 
