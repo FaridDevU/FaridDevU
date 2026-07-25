@@ -1,5 +1,3 @@
-### Farid García Urdiales
+### Hi there 👋
 
-Construyo cosas de escritorio y experiencias en 3D para la web.
-
-[**farid.studio**](https://farid.studio)
+[farid.studio](https://farid.studio)
